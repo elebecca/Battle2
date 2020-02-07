@@ -1,5 +1,6 @@
 require 'sinatra/base'
 require 'sinatra'
+require './lib/player.rb'
 set :session_secret, 'suoper secret'
 
 class Battle < Sinatra::Base
