@@ -4,7 +4,7 @@ ruby '2.6.3'
 
 group :development, :test do
     gem 'shotgun', '0.9.2'
-    gem 'sinatra', '2.0.8.1'
+    gem 'sinatra', '2.2.3'
     gem 'rspec'
     gem 'rubocop', '0.71.0'
     gem 'capybara'
